@@ -126,7 +126,7 @@ const shipstationApiCall = async (url, method, body) => {
       url: url,
       headers: {
         // Your API Authorization token goes here.
-        Authorization: process.env.SHIPSTATION_API_KEY,
+        Authorization: process.env.0d24be6cf64340aaa60b3566f963f977,
         "Content-Type": "application/json",
       },
     };
